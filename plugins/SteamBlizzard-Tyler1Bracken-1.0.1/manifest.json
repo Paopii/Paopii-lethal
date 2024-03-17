@@ -1,0 +1,9 @@
+{
+    "name": "Tyler1Bracken",
+    "version_number": "1.0.1",
+    "website_url": "",
+    "description": "Your friends cry for help as they get dragged away by the Bracken.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
